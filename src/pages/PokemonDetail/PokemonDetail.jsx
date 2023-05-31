@@ -1,8 +1,7 @@
-import { useParams } from "react-router-dom";
-// import { getPokemonById } from "../../services/getPokemonById";
-
-import "./PokemonDetail.css";
 import { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
+import "./pokemonDetail.css";
+
 import { getPokemonById } from "../../services/getPokemonById";
 const PokemonDetail = () => {
   const { pokemonId } = useParams();
