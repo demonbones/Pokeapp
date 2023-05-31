@@ -1,0 +1,15 @@
+.pokedex__massage {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  font-family: "Inter-Mixed";
+  text-align: center;
+}
+
+.pokedex__massage__username {
+  font-weight: 700;
+  font-style: normal;
+  color: #fe1936;
+  font-family: "Inter-Mixed";
+  text-align: center;
+}

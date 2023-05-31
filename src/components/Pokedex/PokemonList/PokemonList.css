@@ -1,0 +1,14 @@
+.container-all-pokemons {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.container_pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}

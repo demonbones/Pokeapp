@@ -1,0 +1,15 @@
+.header-pokedex {
+  background-image: linear-gradient(to bottom right, #dd1a1a, #0c0c0c);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-pokedex img {
+  width: 20%;
+}
+
+.log_out {
+  position: absolute;
+  left: 90%;
+  height: 20px;
+}

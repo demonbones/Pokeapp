@@ -1,0 +1,39 @@
+.form-name {
+  width: 662px;
+  height: 68px;
+  box-shadow: 0px 3px 6px 0px #00000026;
+  border-radius: 6px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border: none;
+  font-size: 25px;
+}
+
+.form-name::placeholder {
+  font-family: "Roboto-Medium";
+  color: #d3d3d3;
+}
+
+.submit-name {
+  width: 209.21px;
+  height: 68px;
+
+  font-family: "Roboto-Medium";
+  font-size: 24px;
+  color: #ffffff;
+  background: #d93f3f;
+  border-radius: 6px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border: none;
+  box-shadow: 0px 3px 6px 0px #00000026;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out 0ms;
+}
+button:active {
+  transform: scale(0.95);
+}
+.error-form {
+  color: red;
+  text-align: center;
+}

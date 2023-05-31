@@ -1,0 +1,17 @@
+.form {
+  margin-bottom: 2rem;
+}
+
+.form__input-name {
+  min-width: 300px;
+}
+
+.form_inputs-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.container_select {
+  width: 100px;
+}
